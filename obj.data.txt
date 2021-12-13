@@ -1,0 +1,5 @@
+classes= 1
+train  = /content/gdrive/MyDrive/yolov4/cfg/train.txt
+valid  = /content/gdrive/MyDrive/yolov4/cfg/test.txt
+names  = /content/gdrive/MyDrive/yolov4/cfg/obj.names.txt
+backup = /content/gdrive/MyDrive/yolov4/cfg/weights
