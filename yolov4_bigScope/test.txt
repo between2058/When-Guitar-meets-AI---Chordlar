@@ -1,0 +1,3 @@
+/content/gdrive/MyDrive/yolov4/yolo_train/7.jpg
+/content/gdrive/MyDrive/yolov4/yolo_train/8.jpg
+/content/gdrive/MyDrive/yolov4/yolo_train/9.jpg
